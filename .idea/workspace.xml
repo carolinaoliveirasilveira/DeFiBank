@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52a06940-7630-43c0-b399-ef3c43881629" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ColoringMyDay/src/test/java/com/colorindomeudia/colorindomeudia/repository/StudentsRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ColoringMyDay/src/test/java/com/colorindomeudia/colorindomeudia/repository/StudentsRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColoringMyDay/src/test/java/com/colorindomeudia/colorindomeudia/service/StudentsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ColoringMyDay/src/test/java/com/colorindomeudia/colorindomeudia/service/StudentsServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DeFiBank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "carolinaoliveirasilveira"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/carolinaoliveirasilveira/SalesHub.git",
+    "accountId": "048e73a2-4f76-41b0-9c23-b93fe9bb8c1e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2vEO9lEU54qCs5QiC5uYo9idWFL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "base-structure",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projetos/DeFiBank/auth-service"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52a06940-7630-43c0-b399-ef3c43881629" name="Changes" comment="" />
+      <created>1743706619087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743706619087</updated>
+    </task>
+    <servers />
+  </component>
+</project>
